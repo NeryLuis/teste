@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: larger;
+}
+
+#tab1 {
+    background: rgb(134, 127, 127);
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background: lightgray;
+}
+
+#teste {
+    text-align: center;
+}
+
+#teste2 {
+    text-align: right;
+}
+
